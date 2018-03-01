@@ -5,9 +5,17 @@
 ## Table of Contents
 
 * [Key Concepts](#key-concepts)
+* Immutable Data
+  * Updating objects
+  * Updating arrays
+  * Summarize information in an array
+* Types of Functions
 
-## Key Concepts
+  * Pure Functions
+  * Function Composition
 
-* Data
-* Lists of Data
-* Data Transformations
+  ## Key Concepts
+
+* Data -> Types of Data
+* Lists of Data -> Manage Lists
+* Data Transformations -> Transformations
