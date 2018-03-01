@@ -11,8 +11,13 @@
   * Summarize information in an array
 * Types of Functions
 
+  * Currying and Partial
   * Pure Functions
   * Function Composition
+
+* Functional Concepts
+
+  * Declarative Programming
 
   ## Key Concepts
 
