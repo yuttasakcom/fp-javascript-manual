@@ -1,4 +1,4 @@
-# Functional Programming JavaScript
+# Functional Programming JavaScript Manual
 
 > Functional Programming For Beginners With JavaScript
 
